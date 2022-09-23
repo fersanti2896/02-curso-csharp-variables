@@ -15,6 +15,9 @@ namespace Variables.Codigo {
 
             string texto = "Soy un programador jr";
             Console.WriteLine(texto);
+
+            string mensaje = "Este string contiene \\ y también \" pues lo escapamos";
+            Console.WriteLine(mensaje);
         }
     }
 }
